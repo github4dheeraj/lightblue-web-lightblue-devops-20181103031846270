@@ -1,9 +1,12 @@
 {
   "APIs": {
     "catalog": {
-"host": "lightblue-catalog-chaudharidheerajLab6.mybluemix.net",
-"base_path": "/micro" },
-"customer": {
-"host": "lightblue-customer-chaudharidheerajLab6.mybluemix.net", "base_path": "/micro"
-} }
+      "host": "lightblue-catalog-dheerajchaudhariLab5.mybluemix.net",
+      "base_path": "/micro" 
+    },
+    "customer": {
+      "host": "lightblue-customer-dheerajchaudhari.mybluemix.net",
+      "base_path": "/micro"
+} 
+}
 }
